@@ -10,7 +10,7 @@ Exploração de Oportunidades: Resultados notáveis são obtidos explorando opor
 Liderança como Conquista: A liderança não é um cargo, mas uma conquista baseada em resultados, conhecimento aplicável e comportamento adequado
 .
 </h2>
-<h3>
+<h2>
 2. Gestão por Indicadores (KPIs) e Metodologias
 Mensuração Sistemática: "O que pode ser medido, pode ser melhorado"
 . Os indicadores servem para comparar o desempenho real com as metas
@@ -19,8 +19,8 @@ Ciclo PDCA: Utilização do Planejar, Executar, Verificar e Atuar para garantir 
 .
 OKRs e SMART: Implementação de Objetivos qualitativos/inspiradores e Resultados-Chave quantitativos para alinhar a equipe
 .
-</h3>
-<h4>
+</h2>
+<h2>
 3. Power Skills e Inteligência Emocional
 Pilares de Goleman: Desenvolvimento da autoconsciência, autogestão, empatia e habilidades sociais como base para a liderança eficaz
 .
@@ -28,9 +28,9 @@ Liderança pelo Exemplo: A inspiração da equipe vem da conduta, fala e comport
 .
 Comunicação e Feedback: Prática da escuta ativa e uso do feedback de desenvolvimento para elevar a competência do time
 .
-</h4>
+</h2>
 
-<h5>
+<h2>
 4. Liderança Ética e Tendências para 2026
 Líder Servidor: Inversão da pirâmide tradicional, onde o líder atua para apoiar e remover barreiras para seus liderados
 .
@@ -38,7 +38,7 @@ Human-Centric: Gestão focada no bem-estar, saúde mental e diversidade como mot
 .
 Tecnologia e IA: Uso de Inteligência Artificial e análise de dados (Data-Driven) para antecipar riscos e fortalecer decisões estratégicas
 .
-</h5>
+</h2>
 <p>
 🛠️ Como utilizar este guia
 Este repositório serve como um currículo dinâmico para profissionais que desejam:
