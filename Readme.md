@@ -1,6 +1,7 @@
 Guia de Estudo: Liderança de Sucesso
 NotebookLM para estudo da Liderança de Sucesso. Integra fundamentos de Drucker, KPIs, OKRs e Power Skills. Foco em Inteligência Emocional para elevar a produtividade em 20%. Guia para transformar gestores em líderes focados em eficácia, ética e resultados notáveis.
-📌 Pilares do Guia
+<li>📌 Pilares do Guia</li>
+
 1. Fundamentos da Gestão por Resultados
 Eficácia vs. Eficiência: O foco deve ser em "fazer as coisas certas" em vez de apenas "fazer as coisas direito"
 .
