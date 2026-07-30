@@ -58,7 +58,48 @@ Tecnologia e IA: Uso de Inteligência Artificial e análise de dados (Data-Drive
   <li><strong>Planeje antes de perguntar:</strong> Perguntas e objetivos de qualidade não devem ser feitos sem reflexão ou "rabiscados em um guardanapo". O sucesso na obtenção de uma boa resposta exige que você <b>invista tempo, energia e esforço</b> para planejar o que realmente deseja realizar.</li>
   <li><strong>Faça os "questionamentos certos":</strong> Foque em prompts que ajudem a <b>desobstruir barreiras e que sejam direcionados para a obtenção de resultados concretos.</b></li>
 </ul>
-<h2>Perguntas Estratégicas:</h2>
+<div>
+<h1>Miniguia de Estudo: Liderança de Sucesso</h1>
+    <h2>1. Resumos Estruturados do Assunto</h2>
+    <h3>Fundamentos e Mindset da Liderança</h3>
+    <p>A liderança não é um cargo, mas uma <strong>conquista baseada em resultados notáveis, conhecimento aplicável e comportamento adequado</strong> [1, 2]. Diferencia-se da gestão tradicional por focar em "fazer as coisas certas" (estratégia e eficácia) em vez de apenas "fazer as coisas direito" (processos e eficiência) [3, 4]. O líder moderno atua como um facilitador que <strong>serve à sua equipe</strong>, removendo obstáculos e desenvolvendo o potencial humano [5, 6]. Adota-se a <strong>"Regra de Platina"</strong>: tratar os liderados como <em>eles</em> gostariam de ser tratados, respeitando suas individualidades [7].</p>
+    <h3>Inteligência Emocional (IE) e Social</h3>
+    <p>A IE é o diferencial competitivo que separa líderes técnicos de líderes extraordinários [8, 9]. Seus pilares fundamentais são:</p>
+    <ul>
+        <li><strong>Autoconsciência:</strong> Conhecer profundamente as próprias emoções e limitações [10].</li>
+        <li><strong>Autogestão:</strong> Capacidade de lidar com estados emocionais sem se tornar refém deles [10].</li>
+        <li><strong>Empatia:</strong> Entender o estado emocional alheio para fundamentar decisões [11].</li>
+        <li><strong>Habilidade Social:</strong> Gerenciar relações e transitar em diferentes contextos [11].</li>
+        <li><strong>Automotivação:</strong> Gerar energia interna para buscar objetivos máximos [12].</li>
+    </ul>
+    <p>O humor do líder é biologicamente contagioso através dos <strong>neurônios-espelho</strong>, impactando o clima organizacional e até um terço dos resultados financeiros [13, 14].</p>
+    <h3>Gestão por Resultados e Metas (OKR e KPIs)</h3>
+    <p>A gestão moderna substitui o controle de horas pelo foco em metas mensuráveis [15]. A metodologia <strong>OKR (Objectives and Key Results)</strong> divide o planejamento em Objetivos inspiradores (o "quê") e Resultados-Chave quantitativos (o "como") [16, 17]. O <strong>Ciclo PDCA</strong> (Planejar, Executar, Verificar e Agir) é essencial para a melhoria contínua [18, 19]. Indicadores de Desempenho (KPIs) devem ser "poucos e bons", servindo para nortear ações estratégicas e não apenas para punição [20, 21].</p>
+    <h3>Gestão de Equipes: Delegação, Feedback e Mentoria</h3>
+    <p>O sucesso do líder depende da transição do "fazer" para o "liderar através dos outros" [22, 23].</p>
+    <ul>
+        <li><strong>Delegação:</strong> Atribuir autoridade e responsabilidade, mantendo pontos de controle para evitar a microgestão [24, 25].</li>
+        <li><strong>Feedback de Desenvolvimento:</strong> Focar na mudança de comportamento futuro e no problema, nunca atacando a pessoa [26, 27].</li>
+        <li><strong>Mentoria:</strong> Uso de profissionais experientes para guiar novatos, acelerando o aprendizado e a sucessão [28, 29].</li>
+    </ul>
+    <h2>2. Glossário de Conceitos-Chave</h2>
+    <ul>
+        <li><span class="glossary-term">Contágio Emocional:</span> Fenômeno neurobiológico onde as emoções do líder se espalham pela equipe [12, 13].</li>
+        <li><span class="glossary-term">Delegação não é Abdicação:</span> O líder permanece disponível para suporte e retém a responsabilidade final pelo resultado [30, 31].</li>
+        <li><span class="glossary-term">Feedback de Desenvolvimento:</span> Abordagem que substitui o termo "feedback negativo", focando na evolução do liderado [26].</li>
+        <li><span class="glossary-term">OKR:</span> Framework de metas que alinha o trabalho diário aos grandes objetivos da organização [16].</li>
+        <li><span class="glossary-term">Power Skills:</span> A combinação sinérgica de hard skills (técnicas) e soft skills (comportamentais) [32].</li>
+        <li><span class="glossary-term">Segurança Psicológica:</span> Ambiente onde colaboradores sentem-se seguros para errar, inovar e questionar [33, 34].</li>
+    </ul>
+    <h2>3. Prompts Reutilizáveis para Revisão</h2>
+    <p>Utilize os modelos abaixo em ferramentas de IA para praticar os conceitos aprendidos:</p>
+    <p>"Atue como um mentor de liderança. Eu sou um líder iniciante que precisa dar um feedback de desenvolvimento para um colaborador talentoso, mas que está cometendo erros frequentes em relatórios. Ajude-me a estruturar a conversa usando a abordagem de focar no problema e não na pessoa, baseando-se nos princípios de Daniel Goleman."</p>
+    <p>"Com base na metodologia OKR, ajude-me a transformar o objetivo qualitativo 'Melhorar a satisfação do cliente no setor de produção' em 3 Resultados-Chave (KRs) mensuráveis, específicos e ambiciosos para o próximo trimestre."
+    </p>
+    <p>"Explique as diferenças práticas entre os estilos de liderança visionário, democrático e coaching. Sugira em qual situação específica de crise organizacional cada um seria mais eficaz, considerando o impacto no clima organizacional."</p>
+  
+</div>
+  <h2>Perguntas Estratégicas:</h2>
 <h3><b>Como me preparar para me tornar um líder de sucesso, mesmo sem ainda ocupar uma função de liderança formal?</b></h3>
 <p><b>Resposta:</b> Para se preparar para se tornar um líder de sucesso antes mesmo de assumir uma função formal, você deve encarar a liderança como uma conquista baseada em resultados, conhecimento e comportamento, e não apenas como um título em um crachá.</p>
 
