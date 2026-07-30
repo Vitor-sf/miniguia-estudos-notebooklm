@@ -1,5 +1,5 @@
 <h1>Guia de Estudo: Liderança de Sucesso</h1>
-<p>NotebookLM para estudo da Liderança de Sucesso. Integra fundamentos de Drucker, KPIs, OKRs e Power Skills. Foco em Inteligência Emocional para elevar a produtividade. Guia para transformar gestores em líderes focados em eficácia, ética e resultados notáveis.</p>
+<p>NotebookLM para estudo da Liderança de Sucesso. Integra fundamentos de Drucker, KPIs, OKRs e Power Skills. Foco em Inteligência Emocional para elevar a produtividade. Guia para gerar líderes focados em eficácia, ética e resultados notáveis.</p>
 <h2>📌 Pilares do Guia</h2>
 
 <p><b>1. Fundamentos da Gestão por Resultados
