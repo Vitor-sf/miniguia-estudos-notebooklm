@@ -1,5 +1,5 @@
 <h1>Guia de Estudo: Liderança de Sucesso</h1>
-NotebookLM para estudo da Liderança de Sucesso. Integra fundamentos de Drucker, KPIs, OKRs e Power Skills. Foco em Inteligência Emocional para elevar a produtividade em 20%. Guia para transformar gestores em líderes focados em eficácia, ética e resultados notáveis.
+<p>NotebookLM para estudo da Liderança de Sucesso. Integra fundamentos de Drucker, KPIs, OKRs e Power Skills. Foco em Inteligência Emocional para elevar a produtividade. Guia para transformar gestores em líderes focados em eficácia, ética e resultados notáveis.</p>
 <h2>📌 Pilares do Guia</h2>
 
 <p><b>1. Fundamentos da Gestão por Resultados
@@ -51,12 +51,12 @@ Tecnologia e IA: Uso de Inteligência Artificial e análise de dados (Data-Drive
 <h3>Recomendações para Melhores Respostas ao Redigir Prompts</h3>
 
 <ul>
-  <li><strong>Seja específico e evite generalizações:</strong> A falta de especificidade é um dos maiores problemas na comunicação [1]. Ao redigir um prompt, <b>evite termos vagos</b> como "todo mundo", "ninguém" ou "tudo", pois esse tipo de comunicação generalista é considerado ineficaz [1].</li>
-  <li><strong>Defina claramente o contexto e o objetivo:</strong> A forma como você formula e compreende o problema ou pergunta pode afetar diretamente a qualidade da resposta [2]. Entenda que a comunicação funciona como um sistema de <b>input (o que você digita), processamento e output (a resposta)</b>; se a entrada for clara, o processamento será mais assertivo [3].</li>
-  <li><strong>Utilize perguntas abertas:</strong> Para obter respostas que ampliem a sua perspectiva e tragam informações mais detalhadas, recomenda-se o uso de <b>perguntas abertas</b> em vez de questionamentos fechados [4].</li>
-  <li><strong>Diferencie fatos de suposições:</strong> Ao fornecer dados no seu prompt, tenha o cuidado de <b>separar o que é um fato comprovado do que é apenas uma suposição</b>, o que ajuda a guiar a resposta para uma base mais sólida e realista [4].</li>
-  <li><strong>Planeje antes de perguntar:</strong> Perguntas e objetivos de qualidade não devem ser feitos sem reflexão ou "rabiscados em um guardanapo" [5]. O sucesso na obtenção de uma boa resposta exige que você <b>invista tempo, energia e esforço</b> para planejar o que realmente deseja realizar [5].</li>
-  <li><strong>Faça os "questionamentos certos":</strong> Foque em prompts que ajudem a <b>desobstruir barreiras e que sejam direcionados para a obtenção de resultados concretos</b> [6, 7].</li>
+  <li><strong>Seja específico e evite generalizações:</strong> A falta de especificidade é um dos maiores problemas na comunicação. Ao redigir um prompt, <b>evite termos vagos</b> como "todo mundo", "ninguém" ou "tudo", pois esse tipo de comunicação generalista é considerado ineficaz.</li>
+  <li><strong>Defina claramente o contexto e o objetivo:</strong> A forma como você formula e compreende o problema ou pergunta pode afetar diretamente a qualidade da resposta. Entenda que a comunicação funciona como um sistema de <b>input (o que você digita), processamento e output (a resposta)</b>; se a entrada for clara, o processamento será mais assertivo.</li>
+  <li><strong>Utilize perguntas abertas:</strong> Para obter respostas que ampliem a sua perspectiva e tragam informações mais detalhadas, recomenda-se o uso de <b>perguntas abertas</b> em vez de questionamentos fechados.</li>
+  <li><strong>Diferencie fatos de suposições:</strong> Ao fornecer dados no seu prompt, tenha o cuidado de <b>separar o que é um fato comprovado do que é apenas uma suposição</b>, o que ajuda a guiar a resposta para uma base mais sólida e realista.</li>
+  <li><strong>Planeje antes de perguntar:</strong> Perguntas e objetivos de qualidade não devem ser feitos sem reflexão ou "rabiscados em um guardanapo". O sucesso na obtenção de uma boa resposta exige que você <b>invista tempo, energia e esforço</b> para planejar o que realmente deseja realizar.</li>
+  <li><strong>Faça os "questionamentos certos":</strong> Foque em prompts que ajudem a <b>desobstruir barreiras e que sejam direcionados para a obtenção de resultados concretos.</b></li>
 </ul>
 <h2>Perguntas Estratégicas:</h2>
 <h3><b>Como me preparar para me tornar um líder de sucesso, mesmo sem ainda ocupar uma função de liderança formal?</b></h3>
